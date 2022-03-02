@@ -1,0 +1,14 @@
+/* Styling for footer */
+.footer-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+i {
+  font-size: 1.3rem;
+  margin-left: 3rem;
+  color: rgb(3, 3, 3);
+}
